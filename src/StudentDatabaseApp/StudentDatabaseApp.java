@@ -2,6 +2,8 @@ package StudentDatabaseApp;
 
 public class StudentDatabaseApp {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        // Ask how many users we want to add
+
+        // Create n number of students
     }
 }
